@@ -47,9 +47,10 @@ If you need help or have any questions, feel free to reach out. I’m happy to a
 
 ## **Acknowledgments**
 
-- **App:** This project utilizes the [Bluetooth RC Car](https://bluetooth-rc-car.en.softonic.com/android) app for Bluetooth communication. The developer of the app is not explicitly mentioned in the app's documentation, so the attribution is based on the app’s listing available on Softonic. If further details about the developer or the app’s license become available, proper credit will be updated.
+- **App:** This project utilizes the [Bluetooth RC Car](https://bluetooth-rc-car.en.softonic.com/android) app available on Softonic for Bluetooth communication. The app is developed by **Andi.co**. 
 
 - **Basic Code:** The code used in this project is based on an open-source solution. The original author and license information of the basic code are not known at the moment. Once identified, proper attribution will be provided in this repository.
+
 
 ## **License**
 
